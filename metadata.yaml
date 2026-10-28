@@ -1,0 +1,7 @@
+name: "astrbot_plugin_paper_assistant"
+display_name: "Paper Assistant"
+desc: "查找和添加 Zotero 文献，获取论文总结与已有中文译文"
+version: "v0.1.1"
+author: "retidal_plume"
+repo: "https://github.com/Liu-suchen/astrbot_plugin_paper_assistant"
+astrbot_version: ">=4.24.2"
